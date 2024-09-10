@@ -9,7 +9,7 @@ results/
 dist/
 prompts/
 
-config-copy.js
+config.js
 log.json
 
 
