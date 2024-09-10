@@ -7,8 +7,9 @@
 node_modules/
 results/
 dist/
+prompts/
 
-
+config-copy.js
 log.json
 
 
